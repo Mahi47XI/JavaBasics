@@ -1,2 +1,2 @@
-# JavaBasics
+# CodeBase
 Complete Java Basics
